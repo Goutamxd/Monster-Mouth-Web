@@ -2,7 +2,7 @@
 <!-- Replace with an actual path to your project screenshot -->
 
 🚀 About the Project
-This project is a visually stunning web design crafted entirely with CSS-only animations and effects. It features a bold, cyberpunk-inspired aesthetic, with striking typography, smooth transitions, and eye-catching elements—including a massive animated mouth that steals the show!
+This project is a visually stunning web design crafted entirely with CSS-only animations and effects. It features a bold, cyberpunk-inspired aesthetic, with striking typography, smooth transitions, and eye-catching elements—including a massive animated mouth that steals the show.
 
 # Designed by: Goutam Dev 🖌️
 
@@ -11,7 +11,7 @@ Technology Used: HTML, CSS (No JavaScript!)
 Theme: Dark, futuristic, high-contrast typography
 
 # 🔥 What Makes This Unique?
-✅ 100% CSS-Powered Animations – No JavaScript, just pure CSS sorcery!
+✅ 100% CSS-Powered Animations – No JavaScript, just pure CSS sorcery
 ✅ A Monster Mouth That Moves – An attention-grabbing animated lip 👄 design.
 ✅ Dynamic Scroll Effects – Auto-blur, rotate, and reveal as you scroll.
 ✅ Glitchy, Cyberpunk Vibes – High-contrast fonts and chaotic energy.
